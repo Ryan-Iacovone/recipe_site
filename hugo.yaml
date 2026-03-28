@@ -1,0 +1,42 @@
+baseURL: http://192.168.1.81:8080/
+locale: en-us
+title: Recipe Logbook
+theme: "PaperMod"
+
+outputFormats:
+  JSON:
+    mediaType: application/json
+    baseName: index
+    isHTML: false
+    permalink: /index.json
+
+outputs:
+  home: ["HTML", "JSON"]
+
+params:
+  title: Recipe Logbook
+  ShowReadingTime: false        # reading time is irrelevant for recipes
+  ShowWordCount: false
+  ShowBreadCrumbs: true         # helps navigate back to the recipe list
+  hideSummary: true
+
+menu:
+  main:
+    - identifier: recipes
+      name: Recipes
+      url: /recipes/
+      weight: 10
+
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 10
+
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 10
+
+taxonomies:
+  tag: tags
+  category: categories

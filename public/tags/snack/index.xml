@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Snack on Recipe Logbook</title>
+    <link>http://localhost:1313/tags/snack/</link>
+    <description>Recent content in Snack on Recipe Logbook</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/snack/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>No Bake Energy Bites</title>
+      <link>http://localhost:1313/recipes/no_bake_energy_bites/</link>
+      <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/recipes/no_bake_energy_bites/</guid>
+      <description>&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;1 cup old-fashioned oats&lt;/li&gt;
+&lt;li&gt;⅔ cup toasted (350° for 5 minutes) shredded coconut (sweetened or unsweetened)&lt;/li&gt;
+&lt;li&gt;½ cup creamy peanut butter&lt;/li&gt;
+&lt;li&gt;½ cup ground flaxseed&lt;/li&gt;
+&lt;li&gt;½ cup semisweet mini chocolate chips (or vegan chocolate chips)&lt;/li&gt;
+&lt;li&gt;⅓ cup honey&lt;/li&gt;
+&lt;li&gt;1 T chia seeds (optional)&lt;/li&gt;
+&lt;li&gt;1 t vanilla extract&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;
+&lt;p&gt;Stir all ingredients together in large mixing bowl until thoroughly combined. Cover and chill in refrigerator for 1–2 hours. Make mixture into balls (or press mixture into square baking dish). Refrigerate in sealed container for up to 1 week.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

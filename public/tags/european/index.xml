@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>European on Recipe Logbook</title>
+    <link>http://localhost:1313/tags/european/</link>
+    <description>Recent content in European on Recipe Logbook</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/european/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Goulash / Sloppy Joe</title>
+      <link>http://localhost:1313/recipes/goulash_sloppy_joe/</link>
+      <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/recipes/goulash_sloppy_joe/</guid>
+      <description>&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ground beef (1 lb for Sloppy Joe / ½ lb for Goulash)&lt;/li&gt;
+&lt;li&gt;1 lb elbow noodles&lt;/li&gt;
+&lt;li&gt;8 pack of hamburger buns&lt;/li&gt;
+&lt;li&gt;2-10 oz cans tomato soup (or 1-23 oz can)&lt;/li&gt;
+&lt;li&gt;1 teaspoon onion powder&lt;/li&gt;
+&lt;li&gt;Salt &amp;amp; pepper (to taste)&lt;/li&gt;
+&lt;li&gt;2 Tablespoons sugar&lt;/li&gt;
+&lt;li&gt;2 Tablespoons white vinegar&lt;/li&gt;
+&lt;li&gt;3 squirts of ketchup&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;
+&lt;p&gt;Prepare elbow noodles as directed. Brown ground beef. Add onion powder, salt &amp;amp; pepper. Drain. Add tomato soup plus 1 can of water per can of soup. Add sugar, vinegar, sugar, ketchup. Bring to a low boil. Cover and simmer for 20 minutes. Remove cover and simmer for a few minutes to thicken.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

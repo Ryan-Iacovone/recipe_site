@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dessert on Recipe Logbook</title>
+    <link>http://localhost:1313/tags/dessert/</link>
+    <description>Recent content in Dessert on Recipe Logbook</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/dessert/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fred&#39;s Chocolate Chip Cookies</title>
+      <link>http://localhost:1313/recipes/chocolate_chip_cookies/</link>
+      <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/recipes/chocolate_chip_cookies/</guid>
+      <description>&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;1 Cup white sugar&lt;/li&gt;
+&lt;li&gt;1 Cup brown sugar&lt;/li&gt;
+&lt;li&gt;1 Cup unsalted butter (2 sticks of butter - softened)&lt;/li&gt;
+&lt;li&gt;2 large eggs&lt;/li&gt;
+&lt;li&gt;1 tsp Baking soda&lt;/li&gt;
+&lt;li&gt;2 tsp Vanilla extract&lt;/li&gt;
+&lt;li&gt;2 tsp Hot water&lt;/li&gt;
+&lt;li&gt;½ tsp Salt&lt;/li&gt;
+&lt;li&gt;3 Cups all-purpose flour&lt;/li&gt;
+&lt;li&gt;¾ Cup semi-sweet chocolate chips&lt;/li&gt;
+&lt;li&gt;¾ Cup peanut butter chips&lt;/li&gt;
+&lt;li&gt;1 cup chopped walnuts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;
+&lt;p&gt;Add both the white sugar and brown sugar to your mixer bowl. Make sure you use a large enough bowl.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

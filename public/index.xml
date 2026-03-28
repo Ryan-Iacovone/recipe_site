@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Recipe Logbook</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Recipe Logbook</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bacon</title>
+      <link>http://localhost:1313/recipes/bacon/</link>
+      <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/recipes/bacon/</guid>
+      <description>help new world</description>
+    </item>
+    <item>
+      <title>Baked chicken</title>
+      <link>http://localhost:1313/recipes/baked_chicken/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/recipes/baked_chicken/</guid>
+      <description>&lt;h1 id=&#34;baked-chicken&#34;&gt;Baked Chicken&lt;/h1&gt;
+&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;1 lb chicken (breast or tenderloins)&lt;/li&gt;
+&lt;li&gt;½ Cup Panko breadcrumbs (add seasoning if desired)&lt;/li&gt;
+&lt;li&gt;2 T butter, melted&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;
+&lt;p&gt;Pound chicken. Cut chicken into strips or nuggets. Melt butter. Dip chicken in melted butter then dip in breadcrumbs. Place chicken on baking sheet and bake at 450° for 5 minutes (5 minutes for nuggets, longer for strips). Flip chicken. Bake an additional 5 minutes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>beef enchilades</title>
+      <link>http://localhost:1313/recipes/beef_enchiladas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/recipes/beef_enchiladas/</guid>
+      <description>&lt;h1 id=&#34;beef-enchiladas&#34;&gt;Beef Enchiladas&lt;/h1&gt;
+&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;1 lb ground beef&lt;/li&gt;
+&lt;li&gt;2-10 oz cans red enchilada sauce (2 hot or 1 hot, 1 mild)&lt;/li&gt;
+&lt;li&gt;1-4 oz can chopped green chiles&lt;/li&gt;
+&lt;li&gt;Beans (optional)&lt;/li&gt;
+&lt;li&gt;8 flour tortillas (fajita size)&lt;/li&gt;
+&lt;li&gt;2+ cups cheddar cheese&lt;/li&gt;
+&lt;li&gt;Pepper + onions&lt;/li&gt;
+&lt;li&gt;Sour cream (for serving)&lt;/li&gt;
+&lt;li&gt;Tortilla chips (for serving)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;
+&lt;p&gt;Brown ground beef. Drain. Stir in ½ cup of enchilada sauce and green chiles. Simmer for 2–3 minutes. Spread ½ cup enchilada sauce in bottom of 13x9&amp;quot; pan. Spread ¼ cup beef mixture down center of each tortilla, spread beans, sprinkle with cheese. Wrap tortilla tightly around filling, placing seam down in baking pan. Top with remaining enchilada sauce. Sprinkle with remaining cheese.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Deviled eggs</title>
+      <link>http://localhost:1313/recipes/boiled_and_deviled_eggs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/recipes/boiled_and_deviled_eggs/</guid>
+      <description>&lt;h1 id=&#34;boiled-and-deviled-eggs&#34;&gt;Boiled and Deviled Eggs&lt;/h1&gt;
+&lt;h2 id=&#34;ingredients-for-6-eggs&#34;&gt;Ingredients (for 6 eggs)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;6 eggs&lt;/li&gt;
+&lt;li&gt;3 tablespoons of mayonnaise&lt;/li&gt;
+&lt;li&gt;½ teaspoon ground mustard or small regular mustard&lt;/li&gt;
+&lt;li&gt;⅛ teaspoon salt&lt;/li&gt;
+&lt;li&gt;⅛ teaspoon pepper&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;
+&lt;h3 id=&#34;boiled-eggs&#34;&gt;Boiled Eggs&lt;/h3&gt;
+&lt;p&gt;Put eggs in a saucepan. Completely cover eggs with cold water. Heat on high until boiling. Once rolling boil, remove pan from heat and cover. Let stand for 15 minutes. After, add cold water to cool eggs off. Once eggs are cool, peel.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

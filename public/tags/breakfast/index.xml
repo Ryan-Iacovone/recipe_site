@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Breakfast on Recipe Logbook</title>
+    <link>http://localhost:1313/tags/breakfast/</link>
+    <description>Recent content in Breakfast on Recipe Logbook</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/breakfast/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Breakfast Quesadillas</title>
+      <link>http://localhost:1313/recipes/breakfast_quesadillas/</link>
+      <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/recipes/breakfast_quesadillas/</guid>
+      <description>&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;4 eggs, beaten&lt;/li&gt;
+&lt;li&gt;Salt &amp;amp; pepper to taste&lt;/li&gt;
+&lt;li&gt;⅓ cup diced ham, crumbled bacon or sausage&lt;/li&gt;
+&lt;li&gt;Mushrooms, chopped&lt;/li&gt;
+&lt;li&gt;Onion, chopped&lt;/li&gt;
+&lt;li&gt;1 cup cheddar cheese or colby-jack cheese&lt;/li&gt;
+&lt;li&gt;4 flour tortillas (taco or fajita size)&lt;/li&gt;
+&lt;li&gt;Salsa&lt;/li&gt;
+&lt;li&gt;Sour cream&lt;/li&gt;
+&lt;li&gt;Cooking spray&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;
+&lt;p&gt;In large skillet scramble eggs, add salt &amp;amp; pepper to taste. Add meat, mushrooms, onion. Put ¼ of egg mixture and ¼ cup cheese on half of each tortilla and fold over. Spray skillet with cooking spray. Place quesadillas in skillet and cook over medium heat until golden brown. Flip and cook until other side is brown. Serve with salsa &amp;amp; sour cream.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>French Toast</title>
+      <link>http://localhost:1313/recipes/french_toast/</link>
+      <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/recipes/french_toast/</guid>
+      <description>&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bread (plain or cinnamon)&lt;/li&gt;
+&lt;li&gt;4 eggs&lt;/li&gt;
+&lt;li&gt;Cinnamon (if not using cinnamon bread)&lt;/li&gt;
+&lt;li&gt;½ cup milk&lt;/li&gt;
+&lt;li&gt;Cooking spray&lt;/li&gt;
+&lt;li&gt;Syrup&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;
+&lt;p&gt;Cut bread slices in half. With fork stir eggs, milk and cinnamon. Whisk with fork to add air to egg mixture. Spray flat pan with cooking spray. Heat on medium-high heat. Dip bread slices in egg mixture. Place on flat pan. Cook until brown. Flip with spatula and brown other side.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Frittatas</title>
+      <link>http://localhost:1313/recipes/frittatas/</link>
+      <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/recipes/frittatas/</guid>
+      <description>&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;12 eggs&lt;/li&gt;
+&lt;li&gt;3 tablespoons full-fat dairy (heavy cream, half-and-half, whole milk, sour cream, crème fraîche or yogurt)&lt;/li&gt;
+&lt;li&gt;½ teaspoon salt&lt;/li&gt;
+&lt;li&gt;1 cup (4 ounces) grated or crumbled cheddar cheese&lt;/li&gt;
+&lt;li&gt;3 to 5 cups chopped vegetables (mushrooms, peppers, spinach, onion, tomato)&lt;/li&gt;
+&lt;li&gt;1 tablespoon olive oil&lt;/li&gt;
+&lt;li&gt;Garnish: Chopped or torn fresh, leafy herbs (basil, parsley, cilantro, or dill)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;
+&lt;p&gt;Preheat the oven to 425°F for the traditional stovetop method, or 350°F for the baked methods.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

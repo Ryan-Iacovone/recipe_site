@@ -6,8 +6,43 @@
     <description>Recent content in Dessert on Recipe Logbook</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/dessert/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Banana Bread</title>
+      <link>http://localhost:1313/recipes/banana_bread/</link>
+      <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/recipes/banana_bread/</guid>
+      <description>&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;3 large, well-ripened bananas&lt;/li&gt;
+&lt;li&gt;1 egg&lt;/li&gt;
+&lt;li&gt;2 tablespoons vegetable oil&lt;/li&gt;
+&lt;li&gt;⅓ cup milk&lt;/li&gt;
+&lt;li&gt;⅓ cup sugar&lt;/li&gt;
+&lt;li&gt;1 teaspoon salt&lt;/li&gt;
+&lt;li&gt;1 teaspoon baking soda&lt;/li&gt;
+&lt;li&gt;½ teaspoon baking powder&lt;/li&gt;
+&lt;li&gt;1½ cup flour&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Preheat the oven to 350°F.&lt;/li&gt;
+&lt;li&gt;Peel the bananas. Put them in a mixing bowl. Mash the bananas with a fork.&lt;/li&gt;
+&lt;li&gt;Add the egg, oil, milk, sugar, salt, baking soda, and baking powder. Mix well with the fork.&lt;/li&gt;
+&lt;li&gt;Slowly stir the flour into the banana mixture. Stir for 20 seconds until the flour is moistened.&lt;/li&gt;
+&lt;li&gt;Lightly grease the bread pan with a little oil, cooking spray, or line it with wax paper.&lt;/li&gt;
+&lt;li&gt;Pour the batter into the bread pan.&lt;/li&gt;
+&lt;li&gt;Bake for 45 minutes until a toothpick inserted near the middle comes out clean.&lt;/li&gt;
+&lt;li&gt;Let the bread cool for 5 minutes before removing it from the pan.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;notes&#34;&gt;Notes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The key to good banana bread is to use well-ripened bananas that are covered with brown speckles.&lt;/li&gt;
+&lt;li&gt;Try using half whole wheat flour to add some fiber.&lt;/li&gt;
+&lt;li&gt;Add nuts if desired.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Fred&#39;s Chocolate Chip Cookies</title>
       <link>http://localhost:1313/recipes/chocolate_chip_cookies/</link>

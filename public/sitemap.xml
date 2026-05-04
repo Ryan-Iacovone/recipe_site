@@ -3,24 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/tags/american/</loc>
-    <lastmod>2026-04-09T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/breakfast/</loc>
-    <lastmod>2026-04-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/recipes/freezer_breakfast_burritos/</loc>
-    <lastmod>2026-04-09T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/recipes/egg_casserole/</loc>
-    <lastmod>2026-04-09T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipes/no_bake_chocolate_peanut_butter_protein_bars/</loc>
+    <lastmod>2026-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipes/peanut_butter_protein_bars/</loc>
+    <lastmod>2026-05-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-04-09T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/recipes/</loc>
-    <lastmod>2026-04-09T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/snack/</loc>
+    <lastmod>2026-05-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipes/freezer_breakfast_burritos/</loc>
     <lastmod>2026-04-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/recipes/banana_bread/</loc>
@@ -138,9 +147,6 @@
     <lastmod>2026-02-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/recipes/sauteed_mushrooms_and_caramelized_onions/</loc>
-    <lastmod>2026-02-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/snack/</loc>
     <lastmod>2026-02-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/recipes/tuna_casserole/</loc>

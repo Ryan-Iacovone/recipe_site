@@ -1,7 +1,7 @@
 ---
 title: Egg Casserole
 tags: [American, Breakfast]
-date: 2026-04-09
+date: 2026-05-03
 cook_time_minutes: 40
 ---
 
@@ -33,3 +33,4 @@ cook_time_minutes: 40
 13. Cool for 5 minutes and serve warm.
 
 [Recipe Link](https://joyfoodsunshine.com/egg-casserole/)
+[Recipe Link2](https://tastesbetterfromscratch.com/breakfast-casserole/)

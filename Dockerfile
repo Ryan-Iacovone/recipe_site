@@ -1,6 +1,9 @@
 FROM hugomods/hugo:latest AS builder
 WORKDIR /site
 COPY . .
+
+# Remove existing public directory so it's always rebuilt
+RUN rm -rf public 
 RUN hugo --minify
 
 FROM nginx:alpine

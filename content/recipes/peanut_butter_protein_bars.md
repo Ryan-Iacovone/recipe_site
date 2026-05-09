@@ -1,16 +1,16 @@
 ---
 title: Peanut Butter Protein Bars
 tags: [American, Snack]
-date: 2026-05-03
+date: 2026-05-08
 cook_time_minutes: 20
 ---
 
 ## Ingredients
 - ¾ cup creamy peanut butter
 - ⅓ cup honey
-- 2 tablespoons coconut oil
+- 2 tablespoons melted butter
 - 2 cups old fashioned rolled oats
-- ½ cup vanilla protein powder (about 2 scoops, depending on brand)
+- ½ cup vanilla protein powder
 - 3 tablespoons flaxseed meal
 - ¼ teaspoon ground cinnamon
 - ¼ teaspoon kosher salt

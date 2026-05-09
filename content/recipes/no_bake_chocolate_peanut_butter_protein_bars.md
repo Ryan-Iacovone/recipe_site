@@ -1,17 +1,17 @@
 ---
 title: No Bake Chocolate Peanut Butter Protein Bars
 tags: [American, Snack]
-date: 2026-05-03
+date: 2026-05-08
 cook_time_minutes: 15
 ---
 
 ## Ingredients
-- ¾ cup (192g) natural creamy peanut butter (just peanuts + salt)
-- ¼ cup (84g) honey (or coconut palm syrup, if vegan)
-- 1 tablespoon melted coconut oil
+- ¾ cup natural creamy peanut butter
+- ¼ cup honey 
+- 1 tablespoon melted butter
 - 1 teaspoon vanilla
-- ⅓ cup (40g) ground flaxseed meal
-- ½ cup (40g) vanilla or plain protein powder
+- ⅓ cup ground flaxseed meal
+- ½ cup vanilla or plain protein powder
 - 2.5 ounces 85% dark chocolate bar
 - Coarse sea salt for sprinkling on top
 

@@ -31,4 +31,4 @@ cook_time_minutes: 20
 - **To freeze**: Keep in the freezer for up to 3 months. Wrap individually and remove as needed.
 - **Peanut butter**: Consistency will vary by brand. Add a tablespoon or two of extra oats if too loose. If too dry, add additional peanut butter, honey, or water 1 tablespoon at a time until bars hold together easily.
 
-[Peanut Butter Protein Bars Orig Recipes](https://www.ambitiouskitchen.com/peanut-butter-cup-protein-bars/)
+[Peanut Butter Protein Bars Orig Recipes](https://www.wellplated.com/peanut-butter-protein-bars/)

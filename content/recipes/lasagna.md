@@ -1,20 +1,20 @@
 ---
 title: Lasagna
 tags: [Italian, Dinner]
-date: 2026-02-21
+date: 2026-05-09
 cook_time_minutes: 45
 ---
 
 ## Ingredients
-- 1 lb uncooked lasagna noodles (for 3 layers)
-- 1 lb ground beef (or less)
+- 1 lb lasagna noodles
+- 1 lb ground beef
 - 2 teaspoons onion powder
 - ½ teaspoon garlic powder
 - 2 Tablespoons minced parsley
-- 1½ Tablespoon oregano
-- 1-1/2 teaspoons salt
+- 1 Tablespoon oregano
+- 1.5 teaspoons salt
 - ½ teaspoon black pepper
-- (1) 12 oz can tomato paste (or (2) 6 oz cans)
+- 1 12 oz can tomato paste (or 2 6 oz cans)
 - 8 ozs (2 cups) grated mozzarella cheese
 - 8 ozs (2 cups) grated sharp cheddar cheese
 - ¾ cup parmesan cheese

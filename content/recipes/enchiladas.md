@@ -1,20 +1,19 @@
 ---
 title: Beef Enchiladas
 tags: [Mexican, Dinner]
-date: 2026-02-21
+date: 2026-05-31
 cook_time_minutes: 30
 ---
 
 ## Ingredients
 - 1 lb ground beef
-- 2-10 oz cans red enchilada sauce (2 hot or 1 hot, 1 mild)
-- 1-4 oz can chopped green chiles
-- Beans (optional)
-- 8 flour tortillas (fajita size)
+- Two 10 oz cans red enchilada sauce (2 hot or 1 hot, 1 mild)
+- One 4 oz can chopped green chiles
+- Refried beans
+- 8 flour tortillas (fajita or taco size, fajita are smaller)
 - 2+ cups cheddar cheese
-- Pepper + onions
 - Sour cream (for serving)
-- Tortilla chips (for serving)
+- Tortilla chips as side
 
 ## Instructions
 

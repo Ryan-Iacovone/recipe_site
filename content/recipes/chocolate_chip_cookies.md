@@ -14,9 +14,9 @@ cook_time_minutes: 60
 - 2 tsp Vanilla extract
 - 2 tsp Hot water
 - ½ tsp Salt
-- 3 Cups all-purpose flour
-- ¾ Cup semi-sweet chocolate chips
-- ¾ Cup peanut butter chips
+- 3 cups all-purpose flour
+- 2 cups semi-sweet chocolate chips
+- 2 cups peanut butter chips
 - 1 cup chopped walnuts
 
 ## Instructions
@@ -27,6 +27,6 @@ Cream together the butter and sugar mixture with your mixer at low speed until f
 
 Stir in flour, half a cup at a time with mixer on medium speed. Stir in chocolate chips, walnuts, and peanut butter chips half a cup at a time.
 
-**(Optional)** If you like flatter cookies, preheat the oven temperature immediately to 350°F. If you like rounder cookies, wait to start preheating oven until you've chilled the dough for half an hour (cover the bowl with plastic wrap and chill in the fridge for 45 minutes).
+**(Optional)** If you like rounder cookies, wait to start preheating oven until you've chilled the dough for half an hour, cover the bowl with plastic wrap and chill in the fridge for 30 minutes.
 
-Use a tablespoon to scoop rounded dough balls onto ungreased pan or a parchment lined pan. Bake cookies for 13 minutes at 350°.
+Use a tablespoon to scoop rounded dough balls onto ungreased pan or a parchment lined pan. Bake cookies for 11 minutes at 350°.

@@ -1,7 +1,7 @@
 ---
 title: Fred's Chocolate Chip Cookies
 tags: [American, Dessert]
-date: 2026-02-21
+date: 2026-06-21
 cook_time_minutes: 60
 ---
 

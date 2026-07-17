@@ -1,5 +1,5 @@
 ---
-title: Mac and Cheese
+title: Mac & Cheese
 tags: [American, Dinner]
 date: 2026-03-28
 link: https://thebigmansworld.com/protein-mac-and-cheese/ 

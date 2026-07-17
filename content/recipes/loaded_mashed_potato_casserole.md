@@ -19,7 +19,9 @@ cook_time_minutes: 65
 
 ## Instructions
 
-Boil potatoes with 2 tablespoons salt for 15–20 minutes until tender. Drain potatoes. Mash potatoes with mixer. Stir in milk, butter, sour cream, salt & pepper. Stir in 1 cup cheddar cheese.
+Boil potatoes with 2 tablespoons salt for 15–20 minutes until tender. Drain potatoes. 
+
+Mash potatoes with mixer or put in blender. Stir in milk, butter, sour cream, salt & pepper. Stir in 1 cup cheddar cheese.
 
 Spray 9" glass baking dish with cooking spray. Add potatoes. Top with remaining 2/3 cup cheddar cheese. Cover with aluminum foil.
 

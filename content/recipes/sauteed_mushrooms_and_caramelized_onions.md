@@ -1,7 +1,7 @@
 ---
 title: Sauteed Mushrooms and Caramelized Onions
-tags: [Italian, Side]
-date: 2026-02-21
+tags: [Side]
+date: 2026-07-16
 cook_time_minutes: 15
 ---
 

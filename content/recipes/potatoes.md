@@ -1,5 +1,5 @@
 ---
-title: Potatoes
+title: Misc Potatoes
 tags: [American, Side]
 date: 2026-02-21
 cook_time_minutes: 75
